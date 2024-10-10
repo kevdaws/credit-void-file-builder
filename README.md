@@ -2,4 +2,4 @@
 
 # Dependancies
 - Must have python installed locally
-- Requests library (pip install request)
+- Requests library (pip install requests)
